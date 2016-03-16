@@ -1,0 +1,225 @@
+﻿html{height:100%;}
+body{font-family:Arial, Helvetica, Sans-Serif;font-size:13px;color:#111;line-height:1.3;letter-spacing:0.2px;background:#090909 url(../../addition/img/NightChampion/hd_bg.jpg) repeat-x;margin:0;padding:0;}
+#topimg{padding-top:35px;width:100%;min-width:800px;height:150px;}
+#topimg2{width:800px;height:150px;background:url(../../addition/img/NightChampion/topbg.jpg) no-repeat;margin:0 auto;}
+#wrapper,#foot_container{margin:0 auto;}
+#wrapper{margin-top:8px;min-width:800px;border-top:6px solid #406C6D;border-left:6px solid #B0BDC6;border-right:6px solid #B0BDC6;background:url(../../addition/img/NightChampion/wrap_bg.jpg);}
+#foot_container{min-width:800px;border-left:6px solid #B0BDC6;border-right:6px solid #B0BDC6;border-bottom:6px solid #406C6D;overflow:visible;background:url(../../addition/img/NightChampion/wrap_bg.jpg);padding:0;}
+#header_container{height:auto;width:100%;margin:auto;padding:0;}
+#header{min-height:160px;position:relative;background:#ddd url(../../addition/img/NightChampion/hed_bg.jpg);margin:0;padding:0;}
+#banner{max-width:47%;max-height:70px;float:right;text-align:right;overflow:hidden;margin:5px 2% 5px 0;padding:5px;}
+#logo{width:800px;overflow:hidden;color:#ddd;}
+#access,#metadesc,#metakey{background:none;}
+a.imglogo{line-height:normal;color:#ddd !important;font-size:36px;display:block;margin:0;padding:0;}
+a.logo{line-height:normal;font-size:36px;display:block;font-style:italic;margin:0;padding:20px 40px;}
+div.slogan{line-height:normal;font-size:16px;display:block;margin:0;padding:0 40px 20px;}
+#navigation_container{width:100%;height:auto;min-height:30px;margin:15px 0 0;}
+#navigation{height:30px;color:#9b9b9b;font-weight:700;line-height:30px;overflow:hidden;border-top:solid 1px #cacaca;border-bottom:solid 1px #cacaca;background:url(../../addition/img/NightChampion/nav.gif) repeat-x top;margin:auto;}
+#navigation a{margin-left:10px;color:#454545;font-size:11px;text-decoration:none;background:url(../../addition/img/NightChampion/tm_s.png) no-repeat right;padding:8px 15px 8px 8px;}
+#navigation a:hover{color:red;text-decoration:none;}
+#navigation ul,#navigation ul li{list-style:none;}
+#subhead{clear:both;height:40px;width:100%;background:#B0BDC6;border-bottom:1px solid #7D9BA3;margin:15px 0 0;}
+#breadcrumb{font-size:12px;height:44px;line-height:40px;float:left;max-width:650px;overflow:hidden;background:#394652;border:1px solid #656565;margin:-3px 0 0 40px;padding:0 5px 0 0;}
+#breadcrumb span{color:#fff;padding:0 15px 0 20px;}
+#breadcrumb span a{color:#fff;}
+#breadcrumb a:hover{color:#fff;text-decoration:none;}
+#search{position:relative;float:right;width:220px;height:40px;padding:7px 0 0;}
+#container{text-align:left;margin:auto;padding:10px 7px 0;}
+#container2{text-align:left;margin:auto;}
+#maincontent input{border:1px solid #ddd;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x top;}
+#leftcol{width:20.99%;float:left;margin:0;padding:0 0 10px;}
+#leftcol .module,#leftcol .module_menu,#leftcol .module_text,#rightcol .module,#rightcol .module_menu,#rightcol .module_text{margin-top:5px;margin-bottom:10px;border-bottom:1px solid silver;background:#fff url(../../addition/img/NightChampion/bg_modules.gif) repeat-y;}
+#rightcol{width:20.99%;position:relative;float:right;margin:0;padding:0 0 10px;}
+#content_out{margin:0 0 0 0.2%;}
+#content_outleft{margin:0 0 0 22%;}
+#content_outmiddle{margin:0 22%;}
+#content_outright{margin:0 22% 0 0;}
+#maincontent{width:93.6%;min-height:600px;float:left;position:relative;overflow:hidden;background:#f6f6f6;display:inline-block;border:1px solid silver;-moz-box-shadow:0 0 10px silver;-webkit-box-shadow:0 0 10px silver;box-shadow:0 0 10px silver;margin:7px 0 30px;padding:0 3% 30px;}
+.clr{clear:both;}
+#footer{font-size:10px;clear:both;width:100%;overflow:hidden;text-align:center;border-top:1px solid #406C6D;background:#ddd url(../../addition/img/NightChampion/wrap_bg.jpg);padding:10px 0;}
+#subfoot{min-height:15px;line-height:15px;width:100%;background-color:#394652;}
+.copytext{font-size:11px;text-align:center;color:#406C6D;border-top:1px solid #7D9BA3;background:#B0BDC6;padding:3px 0;}
+#copyout{height:47px;position:relative;overflow:visible;background:#111;margin:0;padding:0;}
+#lbc{width:80px;height:80px;position:absolute;left:-10px;bottom:-11px;background:url(../../addition/img/NightChampion/lbc.png) no-repeat;}
+#rbc{width:100%;height:80px;position:absolute;left:10px;bottom:-11px;background:url(../../addition/img/NightChampion/rbc.png) no-repeat right;}
+#scroll_up{margin-top:6px;width:10%;float:right;}
+a#gotop{width:30px;height:25px;display:block;line-height:45px;position:absolute;text-align:center;background:url(../../addition/img/NightChampion/gotop.png) no-repeat top;}
+a#gotop:hover{background:url(../../addition/img/NightChampion/gotop.png) no-repeat bottom;}
+#copy{font-size:10px;width:80%;height:50px;line-height:40px;text-align:center;margin:0 0 0 10%;}
+#copy span{color:#406C6D;}
+#leftcol .module div div,#leftcol .module_menu div div,#leftcol .module_text div div,#rightcol .module div div,#rightcol .module_menu div div,#rightcol .module_text div div{margin:0 0 10px;padding:0;}
+#leftcol .module div div div,#leftcol .module_menu div div div,#leftcol .module_text div div div,#rightcol .module div div div,#rightcol .module_menu div div div,#rightcol .module_text div div div{margin:0;padding:10px 3%;}
+#leftcol .module div div div div,#leftcol .module_menu div div div div,#leftcol .module_text div div div div,#rightcol .module div div div div,#rightcol .module_menu div div div div,#rightcol .module_text div div div div{border:0;margin:0;padding:0;}
+#wrapper #leftcol h3.module{height:35px;line-height:30px;text-align:left;position:relative;border:0;background:url(../../addition/img/NightChampion/h3h.jpg) no-repeat left top;margin:0;padding:0 0 0 15px;}
+#wrapper #rightcol h3.module{height:35px;line-height:30px;text-align:right;position:relative;border:0;background:url(../../addition/img/NightChampion/h3h.jpg) no-repeat right bottom;margin:0;padding:0 15px 0 0;}
+.module_menu ul.menu{background:none;list-style:none;margin:0;}
+.module_menu ul.menu li{background:none;list-style:none;margin:0;padding:0 0 0 4px;}
+.module_menu ul.menu li a,.module_menu ul.menu li span.separator{color:#000;display:block;vertical-align:middle;font-size:13px;text-align:left;min-height:25px;line-height:25px;text-decoration:none;border-bottom:1px dotted #232323;margin:4px 0 0;padding:0;}
+.module_menu ul.menu li a span{display:block;}
+.module_menu ul.menu li a:hover,.module_menu ul.menu li a:active,.module_menu ul.menu li a:focus{color:red !important;}
+.module_menu ul.menu li#current ul li a{font-weight:400;color:#000;}
+.module_menu ul.menu li ul{margin:0 0 0 10px;padding:0;}
+.module_menu ul.menu li li{list-style:none !important;min-height:22px;line-height:22px;background:none;margin:0;padding:0;}
+.module_menu ul.menu ul li a{background:none;font-size:11px;min-height:18px;line-height:18px;}
+.module_menu ul.menu li li#current a{font-weight:700;color:#000;}
+ul#mainlevel-nav{display:inline-block;width:98%;list-style:none;font-size:11px;background:#282828;margin:0;padding:2px 1% 5px;}
+ul#mainlevel-nav li{list-style:none;background-image:none;font-weight:700;float:left;font-size:10px;height:40px;line-height:40px;white-space:nowrap;background-color:transparent;margin:4px;padding:0;}
+ul#mainlevel-nav li a,ul#mainlevel-nav li span{text-align:center;font-weight:700;font-size:10px;display:block;padding-left:20px;padding-right:20px;text-decoration:none;color:#ccc;text-transform:uppercase;border-top:1px solid #151515;border-left:1px solid #151515;border-right:1px solid #444;border-bottom:1px solid #444;background:#232323;}
+#buttons > ul#mainlevel-nav li a{width:auto;}
+ul#mainlevel-nav li a:hover{font-weight:700;padding-left:20px;padding-right:20px;float:left;white-space:nowrap;background-color:transparent;color:#fff;text-decoration:underline;background:#333;margin:0;}
+ul#mainlevel-nav li a#active_menu-nav{font-size:12px;text-decoration:underline;color:#fff;background:#333;}
+ul#mainlevel-nav li a#active_menu-nav:hover{color:#666;}
+h2.componentheading,.componentheading{font-size:16px;letter-spacing:1px;color:#404040;min-height:30px;line-height:30px;margin:0;padding:0;}
+.contentdescription{display:inline-block;width:98%;margin:5px 0;padding:1%;}
+.contentheading{color:#111;font-size:18px;font-weight:700;min-height:30px;line-height:normal;background:#eee;border:1px solid #fff;border-bottom:1px solid silver;padding:3px 12px 0;}
+a.contentpagetitle{color:#111 !important;text-decoration:none !important;display:block;}
+.article_separator,.leading_separator,.row_separator{clear:both;display:inline-block;width:100%;height:2px;margin:5px 0;}
+.button,#search input.button,.validate{min-width:60px;max-width:100%;font-size:11px;text-align:center;border:1px solid #CBCCCE;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x top;margin:4px 3px 2px 4px;padding:2px 3px;}
+.button:hover,.validate:hover{cursor:pointer;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x bottom;}
+.inputbox,.input{font-size:11px;color:#000;border:1px solid #ddd;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x top;margin:2px 3px;padding:2px 3px;}
+form input{font-size:11px;border:1px solid #CBCCCE;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x top;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;margin:2px 3px;padding:2px 3px;}
+select{border:1px solid #CBCCCE;background:url(../../addition/img/NightChampion/in_but.gif) repeat-x top;margin:2px;}
+#modlgn_passwd,#modlgn_username{width:115px;height:17px;padding:0 0 0 5px;}
+table.pagenav{margin:40px 0 20px;}
+span.pagenav,a.pagenav,table.pagenav a{font-size:11px;color:#555;text-align:center;border:1px solid #CBCCCE;background:url(../../addition/img/NightChampion/nav.gif) repeat-x top;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;margin:2px 3px;padding:5px 15px;}
+span.pagenav,a.pagenav,table.pagenav a:hover{text-decoration: none;background:url(../../addition/img/NightChampion/nav.gif) repeat-x bottom;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;margin:2px 3px;padding:5px 15px;}
+a.pagenav{color:#555;}
+a.pagenav:hover{color:#000;text-decoration:none;background:url(../../addition/img/NightChampion/nav.gif) repeat-x bottom;}
+.invalid{border-color:red;}
+.sectiontableheader{color:#555;font-weight:700;text-align:left;text-transform:none;height:30px;margin:0;padding:2px;}
+.sectiontablefooter{text-align:left;text-transform:none;margin:0;padding:2px;}
+.sectiontableentry0,.sectiontableentry1,.sectiontableentry2{text-align:left;}
+div.mosimage{border:2px solid transparent;}
+.mosimage{margin:0;}
+.mosimage_caption{margin-top:0;color:#666;font-size:10px;padding:0;}
+.highlight{background-color:#ddd;color:red;font-weight:700;font-family:Verdana;border:1px solid silver;padding:0 5px;}
+table.poll{width:100%;border-collapse:collapse;padding:0;}
+table.pollstableborder{width:100%;border:none;text-align:left;padding:0;}
+table.pollstableborder img{vertical-align:baseline;padding-left:10px;}
+table.pollstableborder td{border-collapse:collapse;border-spacing:0;padding:2px;}
+table.contentpaneopen{width:98%;margin:2px;padding:2px;}
+table.contentpane{width:98%;margin:6px;padding:6px;}
+table.paramlist{margin-top:5px;}
+table.paramlist td.paramlist_key{width:128px;text-align:left;height:30px;}
+.contact_email{margin:5px;padding:5px;}
+#component-contact{margin-top:10px;}
+.hasTip{border:none;margin:5px;}
+#form-login .input{color:#444;font-size:11px;width:108px;height:121px;background:url(../../addition/img/NightChampion/lock.png) no-repeat top right;margin:2px;padding:2px;}
+#form-login ul,#form-login ul li{background:none;list-style:none;margin:5px 0 0 2px;padding:0;}
+#form-login ul li a{color:#111;width:120px;display:block;background:url(../../addition/img/NightChampion/arrow_l.gif) no-repeat right;}
+#form-login ul li a:hover{display:block;color:red;text-decoration:none;background:url(../../addition/img/NightChampion/arrow_lh.gif) no-repeat right;}
+.search input{border:1px solid silver;background:#EFEFEF url(../../addition/img/NightChampion/icon-search.gif) no-repeat right;}
+#artikel{width:100%;display:inline-block;}
+.eintrag{width:100%;display:inline-block;border-bottom:1px solid silver;margin:0;padding:0 0 10px;}
+.small{color:#fff;font-size:10px;}
+.buttonheading{float:right;width:auto;margin:0 0 10px 10px;padding:0;}
+.buttonheading img{margin:0 5px;}
+.buttonheading a:hover{border:none;}
+#form-login fieldset.input{display:inline-block;border:1px dotted #222;margin:10px;padding:10px;}
+.poll-title{text-align:center;border-bottom:1px dotted #222;font-size:15px;margin:0 0 10px;padding:0 0 10px;}
+form.poll label{width:80%;display:inline-block;line-height:normal;}
+#form-login label{margin-left:5px;}
+#form-login fieldset.input,form.poll fieldset{border:0;font-size:12px;width:99.8%;margin:0;padding:0;}
+#form-login .input p{margin:0;padding:0;}
+.weblinks a.category{font-size:16px;display:inline-block;height:35px;width:auto;padding-left:10px;}
+table.contact-category td{border:1px solid #333;padding:8px;}
+table.contact-category th{border:1px solid #333;background:#fff;color:#111;padding:8px;}
+ul.sectionentry li{border-bottom:1px dotted #222;margin:0 0 20px;padding:0 0 10px 30px;}
+ul.sectionentry li .small{color:#fff;float:left;padding:0 10px 0 0;}
+a.category{font-size:16px;display:inline-block;width:99%;height:35px;}
+a.category:first-letter{font-size:26px;line-height:34px;}
+.results li{padding-bottom:5px;margin-bottom:25px;border-bottom:1px dotted #555;}
+form.search_result fieldset{border:solid 2px #333;color:#090909;margin:10px 0;padding:20px;}
+p.counter{text-align:right;margin:25px 0;}
+.blog_more h2{font-size:14px;}
+.iteminfo,.articleinfo{width:100%;float:left;display:inline-block;margin:0;padding:0;}
+.pageinfo{width:100%;display:inline-block;text-align:right;font-size:12px;margin:10px 0 0;}
+.createdate,.createdby,.modifydate{font-family:Verdana;color:#404040;font-size:8.5px;float:left;min-height:16px;width:25%;text-align:left;background-repeat:no-repeat;background-position:left top;margin:5px 1% 0 0;padding:0 0 0 25px;}
+.createdate{background-image:url(../../images/create.gif);}
+.createdby{background-image:url(../../images/createdby.gif);}
+.modifydate{background-image:url(../../images/modify.gif);}
+.createdate:hover,.createdby:hover,.modifydate:hover{color:#999;}
+#system-message{background-color:#ddd;border:1px dotted maroon;background-image:url(../../images/info.png);background-repeat:no-repeat;background-position:10px 5px;min-height:55px;border-top:2px solid #333;border-left:2px solid #333;border-right:1px solid #333;border-bottom:1px solid #333;color:#505050;padding:10px 3% 10px 85px;}
+#system-message dd.message ul{background:#ddd;border:1px dotted gray;color:#bccfeb;padding:20px;}
+#system-message dd.error ul{background:#ddd;border:1px dotted gray;color:red;padding:20px;}
+#system-message dd.message ul li,#system-message dd.error ul li{list-style:none;font-weight:400;font-size:13px;margin:0;padding:0;}
+.error,.message{font-weight:700;font-size:150%;margin:0 0 5px;padding:0;}
+a.readon{width:124px;height:21px;display:inline-block;background:url(../../addition/img/NightChampion/b-rm.png) no-repeat;margin:20px 0 0;padding:2px 0 0 25px;}
+.content_rating{font-size:11px;float:left;margin:3px 0 15px;padding:0;}
+.content_rating img{margin:0 6px -3px;}
+.content_vote{font-size:11px;float:left;width:100%;text-transform:uppercase;margin:0 0 20px;padding:0;}
+.content_vote input{margin:0 5px;padding:0;}
+div.bannerheader{font-weight:700;}
+div.banneritem_text{padding:5px 3px !important;}
+.image_left{float:left;border:solid 0 #ccc;margin:0 10px 10px 0;}
+.image_right{float:right;border:solid 1px #ccc;margin:0 0 10px 10px;}
+.wrap_image{clear:left;}
+div.contact{margin:10px 0;}
+address{font-style:normal;margin:10px 0;}
+address p{line-height:1em;}
+.contact label{float:left;font-weight:700;width:14em;margin:10px 0 0;}
+span.marker{margin:0 10px 0 0;}
+.contact_email_checkbox label{float:none !important;}
+.contact label.copy{width:90%;padding:0 0 0 10px;}
+.contact form{margin:10px 0;padding:20px;}
+.contact input{margin:10px 0 0;padding:2px 2px 0;}
+.contact .button{font-weight:700;cursor:pointer;margin:20px 10px 0 0;}
+label.textarea{float:none !important;display:block;width:100%;margin:10px 0;}
+#contact_text{width:80%;height:150px;}
+.contact input.invalid,.contact textarea.invalid{border:solid 2px red;}
+.poll .polls_color_1,.poll .polls_color_2,.poll .polls_color_3,.poll .polls_color_4,.poll .polls_color_5{border:solid 1px;position:relative;}
+.poll h3{border:solid 0;margin:20px 0;}
+.poll .td_2{width:100px;}
+.poll form{margin:20px 0;}
+.poll table{font-size:1em;width:auto;border:solid 0;position:relative;}
+.poll table .td_1{width:30px;}
+.poll table caption{color:#555;font-size:1em;font-weight:700;text-align:left;margin:10px 0;}
+.poll td{border:solid 1px #333;padding:2px;}
+.poll th{background:#222;border:solid 1px #333;}
+dl.poll dd{font-weight:700;padding:6px 0;}
+.contentpaneopen_edit img{border:0;}
+form.editor legend{font-size:1.2em;font-weight:700;padding:2px;}
+form.editor fieldset{border:solid 1px #333;color:#999;margin:10px 0;padding:20px;}
+form.editor .publishing label{float:left;width:14em;font-weight:700;}
+form.editor .publishing div{margin:5px 0;}
+form.editor .publishing .radio label{float:none;width:14em;}
+form.editor .publishing .radio label span{float:left;width:14em;}
+form.editor fieldset.metadata label{float:none !important;display:block;font-weight:700;}
+.save{text-align:right;padding:10px 0;}
+.save button{border:none;width:122px;height:22px;background:url(../../addition/img/NightChampion/b-rm.png) no-repeat top;}
+#editor-xtd-buttons{padding:5px;}
+.button2-left a,.button2-right a,.button2-left span,.button2-right span{display:block;height:22px;float:left;line-height:22px;font-size:11px;color:#666;cursor:pointer;}
+.button2-left span,.button2-right span{cursor:default;color:#999;}
+.button2-left .page a,.button2-right .page a,.button2-left .page span,.button2-right .page span{padding:0 6px;}
+.button2-left a:hover,.button2-right a:hover{text-decoration:none;color:#0B55C4;}
+.button2-left a,.button2-left span{padding:0 24px 0 6px;}
+.button2-right a,.button2-right span{padding:0 6px 0 24px;}
+body.contentpane{background-color:#fff;}
+form#login label{display:block;font-weight:700;padding:10px 0 3px;}
+form#login fieldset{border:10px solid #333;color:#fff;padding:20px;}
+.tool-tip{float:left;background-color:#202020;border-top:1px solid #444;border-left:1px solid #444;border-right:1px solid #555;border-bottom:1px solid #555;z-index:13000;max-width:300px;padding:7px 9px;}
+.tool-title,.white-title,.gray-title,.blue-title,.green-title,.red-title{font-weight:700;font-size:14px;}
+.tool-title{color:#ccc;font-size:12px;}
+.tool-text{color:#999;font-size:11px;font-weight:400;margin:0;}
+#tip-fade.tool-tip{float:left;background-color:red !important;border-top:1px solid #444;border-left:1px solid #444;border-right:1px solid #555;border-bottom:1px solid #555;z-index:13000;max-width:300px;padding:7px 9px;}
+.white-tip{border:1px solid #ccc;background:#fff;color:#000;margin:0;padding:15px;}
+.gray-tip{border:1px solid #ccc;background:#efefef;color:#000;margin:0;padding:15px;}
+.blue-tip{border:1px solid #154f82;background:#a0cbef;color:#000;margin:0;padding:15px;}
+.green-tip{border:1px solid #5bcb47;background:#8bf279;color:#000;margin:0;padding:15px;}
+.red-tip{border:1px solid red;background:#ffaea8;color:#000;margin:0;padding:15px;}
+.tool-tip,.white-tip,.gray-tip,.blue-tip,.green-tip,.red-tip{font-size:12px;-moz-border-radius:8px;-webkit-border-radius:8px;}
+#slider,table.searchinto,table.contact-category{width:100%;}
+a.imglogo:hover,a.logo:hover,a.readon:hover{text-decoration:none;}
+.h3-ml,.h3-mr{width:100%;height:35px;background:url(../../addition/img/NightChampion/nav.gif) repeat-x top;padding:0;}
+#date,.white-title,.gray-title,.blue-title,.green-title,.red-title{color:#000;}
+.module_menu ul.menu li#current a,.page span{color:#000;font-weight:700;}
+label.invalid,.contact label.invalid{color:red;}
+.sectiontableentry1 td,.sectiontableentry2 td,.sectiontableentry0 td{line-height:25px;border-bottom:1px dotted #222;margin:1px;padding:2px 5px;}
+table.pollstableborder tr.sectiontableentry1 td,table.pollstableborder tr.sectiontableentry2 td,table.pollstableborder tr.sectiontableentry0 td{margin:1px;padding:2px 5px;}
+.pagination span,.pagination a{padding:2px;}
+.poll .td_3,.poll td.line{width:300px;}
+.contentpaneopen_edit,.button2-left,.button2-right,.button2-left div,.button2-right div{float:left;}
+.button2-left,.button2-right{float:left;margin-left:5px;}
+#page_content,table.moduletable{width:100%;margin:0;padding:0;}
+#mod_loginform td a {width:150px;display:block;background:url(../../addition/img/NightChampion/arrow_l.gif) no-repeat right}
+#mod_loginform td a:hover{display:block;color:red;text-decoration:none;background:url(../../addition/img/NightChampion/arrow_lh.gif) no-repeat right}

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="template" client="site">
+<name>triple_champion</name>
+<creationDate>17.07.2011</creationDate>
+<author>Team of Champion</author>
+<copyright>Championptc.ru</copyright>
+<authorEmail>admin@champion.ru</authorEmail>
+<authorUrl>http://www.championptc.ru</authorUrl>
+<version>1.0</version>
+<description>	
+&lt;h1&gt;Шаблон Трёхкратный Чемпион для Championptc.ru&lt;/h1&gt;
+&lt;a href="http://ptc-champion.ucoz.ru/index/1-5" target="_blank"&gt;Перейти на командный форум Ucoz&lt;/a&gt;&lt;br /&gt;
+&lt;img src="../templates/triple_champion/template_thumbnail.png" style="float:left; padding:10px 10px 10px 0;" /&gt;
+&lt;img src="../templates/triple_champion/template_thumbnail_night.png" align="left" hspace="10" style="padding:10px 10px 10px 0;" /&gt;&lt;br /&gt;
+&lt;img src="../templates/triple_champion/template_thumbnail_rich.png" align="left" hspace="10" style="padding:10px 10px 10px 0;" /&gt;&lt;br /&gt;
+&lt;img src="../templates/triple_champion/whoisit.jpg" align="left" hspace="10" style="padding:10px 10px 10px 0;" /&gt;&lt;br /&gt;
+</description>
+<files>
+<filename>component.php</filename>
+<filename>error.php</filename>
+<filename>favicon.ico</filename>
+<filename>head_includes.php</filename>
+<filename>index.html</filename>
+<filename>index.php</filename>
+<filename>template_preview.png</filename>
+<filename>template_thumbnail.png</filename>
+<filename>template_thumbnail_night.png</filename>
+<filename>template_thumbnail_rich.png</filename>
+<filename>templateDetails.xml</filename>
+<filename>whoisit.jpg</filename>
+<folder>js</folder>
+<folder>css</folder>
+<folder>addition</folder>
+<folder>modules</folder>
+<folder>html</folder>
+<folder>images</folder>
+</files>
+<config>
+		<fields name="params">
+			<fieldset name="advanced">		
+<field type="spacer" default="&lt;div id='maindescr' &gt; &lt;em&gt; Добро пожаловать в насторойки шаблона &lt;/em&gt; &lt;/div&gt;" />
+<field type="spacer" default="&lt;div class='spac'&gt; &lt;/div&gt;" />
+<field type="spacer" default="&lt;div class='descr' &gt;Ширина Шаблона&lt;/div&gt;" />
+<field name="whatWidth" type="list" default="0" label="Отображение Ширины" description="Здесь Вы можете решить, хотите ли Вы использовать Динамическую  или Фиксированую ширину.&lt;h3&gt; Что такое ФИКСИРОВАННАЯ? &lt;/h3&gt; Шаблон всегда будет иметь одинаковою ширину,которую вы выберите ниже. &lt;h3&gt; Что такое ДИНАМИЧЕСКАЯ? &lt;/h3&gt; Шаблон растянется по максимальной ширине,которую вы выберите ниже.">
+<option value="1">ДИНАМИЧЕСКАЯ</option>
+<option value="0">ФИКСИРОВАННАЯ</option>
+</field>
+<field type="spacer" default="&lt;div class='subdescr' &gt; ФИКСИРОВАННАЯ Ширина &lt;/div&gt;" />
+<field name="pageWidth" type="text" default="950px" label="Ширина Шаблона" description="По умолчанию = 950px - Выберите фиксированную ширину шаблона. Фиксированная ширина значит неизменяемая. &lt;hr&gt; Это результат следующего CSS кода: &lt;br /&gt;&lt;br /&gt; #wrapper { width:950px; }"></field>
+<field type="spacer" default="&lt;div class='subdescr' &gt; ДИНАМИЧЕСКАЯ Ширина &lt;/div&gt;" />
+<field name="pageMaxWidth" type="text" default="1180px" label="Максимальная Ширина Шаблона" description="По умолчанию = 1180px - Выберите максимальную ширину шаблона. Шаблон будет растягиваться на указанную ширину в пикселях. &lt;hr&gt; Это результат следующего CSS кода: &lt;br /&gt;&lt;br /&gt; #wrapper { max-width:1180px; }"></field>
+<field type="spacer" default="&lt;div class='spac' &gt; &lt;/div&gt;" />
+<field type="spacer" default="&lt;div class='descr' &gt;Дизайн&lt;/div&gt;" />
+<field name="darkCss" type="radio" default="0" label="Выберите дизайн" description="Шаблон имеет три вида дизайна.Выберите нужный. &lt;img src='../templates/triple_champion/images/darkcss.jpg'&gt;">
+<option value="0">Sky Champion</option>
+<option value="1">Night Champion</option>
+<option value="2">Rich Champion</option>
+</field>
+<field type="spacer" default="&lt;div class='descr' &gt;Sky Champion&lt;/div&gt;" />
+<field  name="ugol" type="radio" default="0" label="Левый уголок" description="Включить или отключить левый верхний уголок у Sky Champion. &lt;img src='../templates/triple_champion/addition/img/SkyChampion/con_l.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="ugol_r" type="radio" default="0" label="Правый уголок" description="Включить или отключить правый верхний уголок у Sky Champion. &lt;img src='../templates/triple_champion/addition/img/SkyChampion/con_r.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field type="spacer" default="&lt;div class='descr' &gt;Night Champion&lt;/div&gt;" />
+<field name="ugol_night" type="radio" default="0" label="Левый уголок" description="Включить или отключить левый верхний уголок у Night Champion. &lt;img src='../templates/triple_champion/addition/img/NightChampion/ugol_night_l.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="ugol_night_r" type="radio" default="0" label="Правый уголок" description="Включить или отключить правый верхний уголок у Night Champion. &lt;img src='../templates/triple_champion/addition/img/NightChampion/ugol_night_r.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field type="spacer" default="&lt;div class='descr' &gt;Rich Champion&lt;/div&gt;" />
+<field name="ugol_rich" type="radio" default="0" label="Левый уголок" description="Включить или отключить левый верхний уголок у Rich Champion. &lt;img src='../templates/triple_champion/addition/img/RichChampion/rich_con_L.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="ugol_rich_r" type="radio" default="0" label="Правый уголок" description="Включить или отключить правый верхний уголок у Rich Champion. &lt;img src='../templates/triple_champion/addition/img/RichChampion/rich_con_r.png'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>      
+<field type="spacer" default="&lt;div class='spac' &gt; &lt;/div&gt;" />
+<field type="spacer" default="&lt;div class='descr' &gt;Логотип и Слоган&lt;/div&gt;" />
+<field name="showimgLogo" type="radio" default="1" label="Показывать картинку логотипа?" description="Здесь вы можете выбрать показывать графический логотип или нет. &lt;img src='../templates/triple_champion/addition/img/a_img/pr_logo.jpg'&gt;">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="imgLogo" type="imagelist" default="logo-transparent.png" label="Выбрать картинку логотипа" description="Выберите графический логотип из выпадающего списка" directory="/templates/triple_champion/images/logo" exclude="" stripext="" />
+<field type="spacer" default=" " />
+<field name="showtextLogo" type="radio" default="0" label="Показывать текстовый логотип?" description="Здесь вы можете выбрать показывать текстовый логотип или нет.Если вы отказались от графического логотипа то можете включить вывод текстового.">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="textLogo" type="textarea" default="CHAMPIONPTC" label="Текст логотипа" description="Введите текст,который будет отображён в заголовке шапки в виде текстового логотипа" rows="1" cols="40"></field>
+<field name="logoColor" class="color" type="text" default="dddddd" label="Цвет текста" description="По умолчанию: dddddd = светло-серый"></field>
+<field type="spacer" default=" " />
+<field name="showSlogan" type="radio" default="0" label="Показывать слоган" description="Здесь вы можете выбрать показывать слоган/девиз или нет.Если графический логотип содержит слоган,то текстовый можно отключить,чтобы не нагромождать шапку.">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="slogan" type="textarea" default="Мой слоган будет здесь" label="Введите слоган" description="Введите текст,который будет отображён в качестве слогана/девиза в шапке сайта" rows="1" cols="40"></field>
+<field name="sloganColor" class="color" type="text" default="dddddd" label="Цвет слогана" description="По умолчанию: dddddd = светло-серый"></field>
+<field type="spacer" default="&lt;div class='spac' &gt; &lt;/div&gt;" />
+<field type="spacer" default="&lt;div class='subdescr' &gt;Авторское право&lt;/div&gt;" />
+<field name="showCopy" type="radio" default="1" label="Показывать текст копирайта" description="Здесь вы можете выбрать показывать текст копирайта в подвале сайта или нет.">
+<option value="1">Yes</option>
+<option value="0">No</option>
+</field>
+<field name="copyText" type="textarea" default="CHAMPIONPTC.RU" label="Текст копирайта" description="Введите текст копирайта,который будет отображён в подвале сайта" rows="2" cols="40"></field>
+<field type="spacer" default="&lt;div class='spac' &gt; &lt;/div&gt;" />
+<field description="" label="" default="&lt;link rel='stylesheet' type='text/css' href='../templates/triple_champion/addition/css/ajcpanel.css'" type="spacer" name="" />		
+</fieldset>
+		</fields>
+	</config>
+<positions>
+<position>left</position>
+<position>right</position>
+<position>user3</position>
+<position>user4</position>
+<position>banner</position>
+<position>toppanel</position>
+<position>headermodule1</position>
+<position>headermodule2</position>
+<position>breadcrumb</position>
+<position>beforehead1</position>
+<position>beforehead2</position>
+<position>beforehead3</position>
+<position>beforehead4</position>
+<position>beforehead5</position>
+<position>beforehead6</position>
+<position>advert1</position>
+<position>advert2</position>
+<position>advert3</position>
+<position>advert4</position>
+<position>advert5</position>
+<position>advert6</position>
+<position>advert7</position>
+<position>advert8</position>
+<position>advert9</position>
+<position>advert10</position>
+<position>advert11</position>
+<position>advert12</position>
+<position>afterhead1</position>
+<position>afterhead2</position>
+<position>afterhead3</position>
+<position>afterhead4</position>
+<position>afterhead5</position>
+<position>afterhead6</position>
+<position>slider</position>
+<position>top1</position>
+<position>top2</position>
+<position>top3</position>
+<position>top4</position>
+<position>top5</position>
+<position>top6</position>
+<position>foot1</position>
+<position>foot2</position>
+<position>foot3</position>
+<position>foot4</position>
+<position>foot5</position>
+<position>foot6</position>
+<position>bottom1</position>
+<position>bottom2</position>
+<position>bottom3</position>
+<position>bottom4</position>
+<position>bottom5</position>
+<position>bottom6</position>
+<position>debug</position>
+<position>footer</position>
+</positions>
+</extension>

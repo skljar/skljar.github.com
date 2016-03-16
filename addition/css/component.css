@@ -1,0 +1,6 @@
+input.inputbox{height:20px;padding-left:5px;background:url(../img/SkyChampion/nav.gif) repeat-x top;border:1px solid silver}
+input.inputbox:hover{background:url(../img/SkyChampion/nav.gif) repeat-x bottom}
+form div{width:600px;margin:0 auto;background:url(../img/SkyChampion/wrap_bg.jpg)}
+form{background:url(../img/a_img/emaill.jpg) no-repeat left bottom;height:550px}
+.button{width:122px;height:22px;border:none;padding-bottom: 4px;background:url(../img/SkyChampion/in_but.gif) repeat-x top;border: 1px solid #ddd}
+.button:hover{cursor:pointer;background:url(../img/SkyChampion/in_but.gif) repeat-x bottom}

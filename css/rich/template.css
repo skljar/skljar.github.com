@@ -1,0 +1,225 @@
+﻿html{height:100%}
+body{color:#202020;font-size:13px;line-height:1.3;font-family:Tahoma, Geneva, sans-serif;background:url(../../addition/img/RichChampion/bg.jpg);margin:0;padding:0}
+#topimg{width:100%;min-width:800px;height:150px}
+#topimg2{width:800px;height:150px;background:url(../../addition/img/RichChampion/bgimg.jpg) no-repeat;margin:0 auto}
+#wrapper,#foot_container{margin:0 auto}
+#wrapper{min-width:800px;border-top:4px solid #E4E4EE;border-left:4px solid #AD9AB8;border-right:4px solid #AD9AB8;background:url(../../addition/img/RichChampion/wbg.jpg);-moz-box-shadow:0 0 15px #000;-webkit-box-shadow:0 0 10px #000;box-shadow:0 0 10px #000}
+#foot_container{overflow:visible;min-width:800px;border-bottom:4px solid #E4E4EE;border-left:4px solid #AD9AB8;border-right:4px solid #AD9AB8;background:url(../../addition/img/RichChampion/wbg.jpg);-moz-box-shadow:0 0 10px #000;-webkit-box-shadow:0 0 10px #000;box-shadow:0 0 10px #000;margin:0 auto;padding:0}
+#header_container{height:auto;width:100%;margin:auto;padding:0}
+#header{min-height:110px;position:relative;border-bottom:1px solid #111;background:url(../../addition/img/RichChampion/header_bg.jpg);margin:0;padding:0}
+#slider{width:100%;padding:5px}
+#banner{max-width:47%;max-height:70px;float:right;text-align:right;overflow:hidden;margin:5px 2% 5px 0;padding:5px}
+#logo{width:49%;overflow:hidden;color:#ddd}
+#access,#metadesc,#metakey{background:none}
+a.imglogo{line-height:normal;color:#ddd !important;font-size:36px;display:block;margin:0;padding:0}
+a.logo{line-height:normal;font-size:36px;display:block;font-style:italic;margin:0;padding:20px 40px}
+div.slogan{line-height:normal;font-size:16px;display:block;text-shadow:-2px 2px 2px #000;margin:0;padding:0 40px 20px}
+#navigation_container{width:100%;height:auto;min-height:30px;margin:15px 0 0}
+#navigation{height:auto;border-bottom:1px solid #7c6788;background-position:center top;background-repeat:no-repeat;background-color:#AD9AB8;margin:auto}
+#navigation a{color:#000;font-size:11px;margin-left:5px;border:1px solid #AEABC8;background:url(../../addition/img/RichChampion/nav.jpg) no-repeat top;padding:8px}
+#navigation ul,#navigation ul li{list-style:none}
+#subhead{clear:both;height:40px;width:100%;background:#AD9AB8;border-bottom:1px solid #7c6788;margin:15px 0 0}
+#breadcrumb{font-family:Verdana;font-size:12px;height:44px;line-height:40px;float:left;max-width:650px;overflow:hidden;background:#D2D2F6;border:1px solid #AEABC8;margin:-3px 0 0 40px;padding:0 5px 0 0}
+#breadcrumb span{padding:0 15px 0 20px}
+#breadcrumb a:hover{color:#666;text-decoration:none}
+#search{position:relative;float:right;width:220px;height:40px;padding:7px 0 0}
+#container{text-align:left;margin:auto;padding:10px 7px 0}
+#container2{text-align:left;margin:auto}
+#leftcol{width:20.8%;float:left;background-repeat:no-repeat;background-color:transparent;margin:0;padding:0 0 10px}
+#leftcol .module,#leftcol .module_menu,#leftcol .module_text,#rightcol .module,#rightcol .module_menu,#rightcol .module_text{margin-bottom:10px;border-bottom:1px solid #bfaff5;background:#eae9fb}
+#rightcol{width:20.8%;position:relative;float:right;margin:0;padding:0 0 10px}
+#content_out{margin:0 0 0 0.2%}
+#content_outleft{margin:0 0 0 22%}
+#content_outmiddle{margin:0 22%}
+#content_outright{margin:0 22% 0 0}
+#maincontent{position:relative;width:93.6%;min-height:600px;float:left;overflow:hidden;background:#fff;border:1px solid #AEABC8;display:inline-block;-moz-box-shadow:0 0 10px #AEABC8;-webkit-box-shadow:0 0 10px #D3D3F5;box-shadow:0 0 10px #D3D3F5;margin:7px 0 30px;padding:0 3% 30px}
+.clr{clear:both}
+#footer{font-size:10px;clear:both;width:100%;overflow:hidden;text-align:center;border-top:1px solid #9B7FAA;padding:10px 0}
+#footer,#footer a{color:#333}
+#subfoot{min-height:15px;line-height:15px;width:100%}
+.copytext{font-size:11px;text-align:center;color:#322B64;border-top:1px solid #7c6788;background:#AD9AB8;padding:3px 0}
+#copyout{color:silver;height:50px;position:relative;overflow:visible;background:#322b64;margin:0;padding:0}
+#lbc{width:120px;height:120px;position:absolute;left:-14px;bottom:-17px;background:url(../../addition/img/RichChampion/lbc.png) no-repeat}
+#rbc{width:100%;height:120px;position:absolute;left:14px;bottom:-17px;background:url(../../addition/img/RichChampion/rbc.png) no-repeat right}
+#scroll_up{margin-top:5px;float:right;width:10%}
+a#gotop{width:17px;height:37px;display:block;position:absolute;background:url(../../addition/img/RichChampion/gotop.png) no-repeat left}
+a#gotop:hover{background:url(../../addition/img/RichChampion/gotop.png) no-repeat right}
+#copy{font-size:10px;width:80%;height:50px;line-height:50px;text-align:center;margin:0 0 0 10%}
+#leftcol .module div div div,#leftcol .module_menu div div div,#leftcol .module_text div div div,#rightcol .module div div div,#rightcol .module_menu div div div,#rightcol .module_text div div div{margin:0;padding:10px 3%}
+#leftcol .module div div,#leftcol .module_menu div div,#leftcol .module_text div div,#rightcol .module div div,#rightcol .module_menu div div,#rightcol .module_text div div{margin:0 0 10px;padding:0}
+#wrapper #leftcol h3.module{height:40px;line-height:30px;text-align:left;color:#111;position:relative;overflow:hidden;border:none;background:url(../../addition/img/RichChampion/h3_l.jpg) repeat-x;margin:10px 0 0;padding:0 0 0 30px}
+#wrapper #leftcol h3.module:before{content:"";position:absolute;top:0;left:0;-moz-box-shadow:0 0 5px #000;-webkit-box-shadow:0 0 5px #000;box-shadow:0 0 5px #000;border-color:#fff #5A50A6;border-style:solid;border-width:18px 18px 0 0}
+#wrapper #rightcol h3.module{height:40px;line-height:30px;text-align:right;color:#111;position:relative;overflow:hidden;border:none;background:url(../../addition/img/RichChampion/h3_l.jpg) repeat-x;margin:10px 0 0;padding:0 30px 0 0}
+#wrapper #rightcol h3.module:before{content:"";position:absolute;top:0;right:0;-moz-box-shadow:0 0 5px #000;-webkit-box-shadow:0 0 5px #000;box-shadow:0 0 5px #000;border-color:#5A50A6 #fff;border-style:solid;border-width:0 18px 18px 0}
+.module_menu ul.menu{background:none;list-style:none;margin:0;padding:0}
+.module_menu ul.menu li{background:none;list-style:none;margin:0;padding:0 0 0 4px}
+.module_menu ul.menu li a,.module_menu ul.menu li span.separator{display:block;vertical-align:middle;font-size:13px;text-align:left;min-height:25px;line-height:25px;text-decoration:none;border-bottom:1px dotted #232323;margin:4px 0 0;padding:0}
+.module_menu ul.menu li a span{display:block}
+.module_menu ul.menu li a:hover,.module_menu ul.menu li a:active,.module_menu ul.menu li a:focus{color:#CC576D !important}
+.module_menu ul.menu li#current a{color:#3F3AA0;font-weight:700}
+.module_menu ul.menu li#current ul li a{font-weight:400;color:#3F3AA0}
+.module_menu ul.menu li ul{margin:0 0 0 10px;padding:0}
+.module_menu ul.menu li li{list-style:none !important;min-height:22px;line-height:22px;background:none;margin:0;padding:0}
+.module_menu ul.menu ul li a{background:none;font-size:11px;min-height:18px;line-height:18px}
+.module_menu ul.menu li li#current a{font-weight:700;color:#777}
+ul#mainlevel-nav{display:inline-block;width:98%;list-style:none;font-size:11px;background:#282828;margin:0;padding:2px 1% 5px}
+ul#mainlevel-nav li{list-style:none;background-image:none;font-weight:700;float:left;font-size:10px;height:40px;line-height:40px;white-space:nowrap;background-color:transparent;margin:4px;padding:0}
+ul#mainlevel-nav li a,ul#mainlevel-nav li span{text-align:center;font-weight:700;font-size:10px;display:block;padding-left:20px;padding-right:20px;text-decoration:none;color:#ccc;text-transform:uppercase;border-top:1px solid #151515;border-left:1px solid #151515;border-right:1px solid #444;border-bottom:1px solid #444;background:#232323}
+#buttons > ul#mainlevel-nav li a{width:auto}
+ul#mainlevel-nav li a:hover{font-weight:700;padding-left:20px;padding-right:20px;float:left;white-space:nowrap;background-color:transparent;color:#fff;text-decoration:underline;background:#333;margin:0}
+ul#mainlevel-nav li a#active_menu-nav{font-size:12px;text-decoration:underline;color:#fff;background:#333}
+h2.componentheading,.componentheading{font-size:16px;letter-spacing:1px;color:#404040;min-height:30px;line-height:30px;margin:0;padding:0}
+.contentdescription{display:inline-block;width:98%;margin:5px 0;padding:1%}
+.contentheading{color:#CC576D;font-size:19px;font-family:Tahoma, Geneva, sans-serif;font-weight:700;min-height:30px;line-height:normal;background-color:#f9f9f9;padding-left:12px;padding-right:12px;border:1px solid #ddd;background-image:none}
+a.contentpagetitle{color:#484848 !important;text-decoration:none !important;display:block}
+.article_separator,.leading_separator,.row_separator{clear:both;display:inline-block;width:100%;height:2px;margin:5px 0}
+.button,#search input.button,.validate{min-width:60px;max-width:100%;font-size:11px;color:#111;text-align:center;border:1px solid #AEABC6;background:url(../../addition/img/RichChampion/bgall.gif) repeat-x top;margin:2px 3px;padding:2px 3px}
+.button:hover,.validate:hover{cursor:pointer;text-decoration:none;background:url(../../addition/img/RichChampion/bgall.gif) repeat-x bottom}
+.inputbox,.input{font-size:11px;color:#000;border:1px solid #AEABC6;background:url(../../addition/img/RichChampion/bgall.gif) repeat-x top;margin:2px 3px;padding:2px 3px}
+form input{font-size:11px;border:1px solid #AEABC6;background:url(../../addition/img/RichChampion/bgall.gif) repeat-x bottom;margin:2px 3px;padding:2px 3px}
+table.pagenav{margin:40px 0 20px}
+span.pagenav,a.pagenav,table.pagenav a{font-size:11px;text-align:center;border:1px solid #AEABC8;background:url(../../addition/img/RichChampion/nav.jpg) no-repeat top;margin:2px 3px;padding:6px 13px}
+span.pagenav,a.pagenav,table.pagenav a:hover{background:url(../../addition/img/RichChampion/nav.jpg) no-repeat bottom;margin:2px 3px;padding:6px 13px}
+.invalid{border-color:red}
+.sectiontableheader{color:#555;font-weight:700;text-align:left;text-transform:none;height:30px;margin:0;padding:2px}
+.sectiontablefooter{text-align:left;text-transform:none;margin:0;padding:2px}
+.sectiontableentry0,.sectiontableentry1,.sectiontableentry2{text-align:left}
+div.mosimage{border:2px solid transparent}
+.mosimage{margin:0}
+.mosimage_caption{margin-top:0;color:#666;font-size:10px;padding:0}
+.highlight{background-color:#000;color:red;font-weight:700;font-family:Verdana;padding:0 5px}
+table.poll{width:100%;border-collapse:collapse;padding:0}
+table.pollstableborder{width:100%;border:none;text-align:left;padding:0}
+table.pollstableborder img{vertical-align:baseline;padding-left:10px}
+table.pollstableborder td{border-collapse:collapse;border-spacing:0;padding:2px}
+table.contentpaneopen{width:98%;margin:2px;padding:2px}
+table.contentpane{width:98%;margin:6px;padding:6px}
+table.paramlist{margin-top:5px}
+table.paramlist td.paramlist_key{width:128px;text-align:left;height:30px}
+.contact_email{margin:5px;padding:5px}
+#component-contact{margin-top:10px}
+.hasTip{border:none;margin:5px}
+#form-login .input{color:#444;font-size:11px;background:transparent;margin:2px;padding:2px}
+#form-login ul,#form-login ul li{background:none;list-style:none;margin:5px 0;padding:0}
+#form-login ul li a{display:block;width:120px;padding-left:5px;background:url(../../addition/img/RichChampion/ar.gif) no-repeat right}
+#form-login ul li a:hover{text-decoration:none;background:url(../../addition/img/RichChampion/ar_h.gif) no-repeat right}
+#artikel{width:100%;display:inline-block}
+.eintrag{width:100%;display:inline-block;border-bottom:1px solid #C8919D;margin:0;padding:0 0 10px}
+.small{color:#fff;font-size:10px}
+.buttonheading{float:right;width:auto;margin:0 0 10px 10px;padding:0}
+.buttonheading img{margin:0 5px}
+.buttonheading a:hover{border:none}
+#form-login fieldset.input{display:inline-block;border:1px dotted #222;margin:10px;padding:10px}
+.poll-title{text-align:center;border-bottom:1px dotted #222;font-size:15px;margin:0 0 10px;padding:0 0 10px}
+form.poll label{width:80%;display:inline-block;line-height:normal}
+#form-login fieldset.input,form.poll fieldset{border:0;font-size:12px;width:99.8%;margin:0;padding:0}
+.weblinks a.category{font-size:16px;display:inline-block;height:35px;width:auto;padding-left:10px}
+table.contact-category td{border:1px solid #333;padding:8px}
+table.contact-category th{border:1px solid #333;background:#111;color:#fff;padding:8px}
+ul.sectionentry li{border-bottom:1px dotted #222;margin:0 0 20px;padding:0 0 10px 30px}
+ul.sectionentry li .small{color:#fff;float:left;padding:0 10px 0 0}
+a.category{font-size:16px;display:inline-block;width:99%;height:35px}
+a.category:first-letter{font-size:26px;line-height:34px}
+.results li{padding-bottom:5px;margin-bottom:25px;border-bottom:1px dotted #555}
+form.search_result fieldset{border:solid 2px #333;color:#fff;margin:10px 0;padding:20px}
+p.counter{text-align:right;margin:25px 0}
+.blog_more h2{font-size:14px}
+.iteminfo,.articleinfo{width:100%;float:left;display:inline-block;margin:0;padding:0}
+.pageinfo{width:100%;display:inline-block;text-align:right;font-size:12px;margin:10px 0 0}
+.createdate,.createdby,.modifydate{font-family:Verdana;color:#404040;font-size:8.5px;float:left;min-height:16px;width:25%;text-align:left;background-repeat:no-repeat;background-position:left top;margin:5px 1% 0 0;padding:0 0 0 25px}
+.createdate{background-image:url(../../images/create.gif)}
+.createdby{background-image:url(../../images/createdby.gif)}
+.modifydate{background-image:url(../../images/modify.gif)}
+.createdate:hover,.createdby:hover,.modifydate:hover{color:#999}
+#system-message{background-color:#f9f9f9;background-image:url(../../images/info.png);background-repeat:no-repeat;background-position:10px 5px;min-height:55px;border:1px solid #AEABC6;color:#505050;padding:10px 3% 10px 85px}
+#system-message dd.message ul{background:#DEDFFB;border:1px dotted #bccfeb;color:#bccfeb;padding:20px}
+#system-message dd.error ul{background:#DEDFFB;border:1px dotted red;color:red;padding:20px}
+#system-message dd.message ul li,#system-message dd.error ul li{list-style:none;font-weight:400;font-size:13px;color:#111;margin:0;padding:0}
+.error,.message{font-weight:700;font-size:150%;margin:0 0 5px;padding:0}
+a.readon{display:inline-block;width:112px;height:20px;background:url(../../addition/img/RichChampion/readon.png) no-repeat top;margin:20px 0 0;padding:0 0 0 15px}
+a.readon:hover{text-decoration:none;background:url(../../addition/img/RichChampion/readon.png) no-repeat bottom}
+.content_rating{font-size:11px;float:left;margin:3px 0 15px;padding:0}
+.content_rating img{margin:0 6px -3px}
+.content_vote{font-size:11px;float:left;width:100%;text-transform:uppercase;margin:0 0 20px;padding:0}
+.content_vote input{margin:0 5px;padding:0}
+div.bannerheader{font-weight:700}
+div.banneritem_text{padding:5px 3px !important}
+.image_left{float:left;border:solid 0 #ccc;margin:0 10px 10px 0}
+.image_right{float:right;border:solid 1px #ccc;margin:0 0 10px 10px}
+.wrap_image{clear:left}
+div.contact{margin:10px 0}
+address{font-style:normal;margin:10px 0}
+address p{line-height:1em}
+.contact label{float:left;font-weight:700;width:14em;margin:10px 0 0}
+span.marker{margin:0 10px 0 0}
+.contact_email_checkbox label{float:none !important}
+.contact label.copy{width:90%;padding:0 0 0 10px}
+.contact form{margin:10px 0;padding:20px}
+.contact input{margin:10px 0 0;padding:2px 2px 0}
+.contact .button{font-weight:700;cursor:pointer;margin:20px 10px 0 0}
+label.textarea{float:none !important;display:block;width:100%;margin:10px 0}
+#contact_text{width:80%;height:150px}
+.contact input.invalid,.contact textarea.invalid{border:solid 2px red}
+.poll .polls_color_1,.poll .polls_color_2,.poll .polls_color_3,.poll .polls_color_4,.poll .polls_color_5{border:solid 1px;position:relative}
+.poll h3{border:solid 0;margin:20px 0}
+.poll .td_2{width:100px}
+.poll form{margin:20px 0}
+.poll table{font-size:1em;width:auto;border:solid 0;position:relative}
+.poll table .td_1{width:30px}
+.poll table caption{color:#555;font-size:1em;font-weight:700;text-align:left;margin:10px 0}
+.poll td{border:solid 1px #333;padding:2px}
+.poll th{background:#222;border:solid 1px #333}
+dl.poll dd{font-weight:700;padding:6px 0}
+.contentpaneopen_edit img{border:0}
+form.editor legend{font-size:1.2em;font-weight:700;padding:2px}
+form.editor fieldset{border:solid 1px #AD9AB8;color:#5A50A6;margin:10px 0;padding:20px}
+form.editor .publishing label{float:left;width:14em;font-weight:700}
+form.editor .publishing div{margin:5px 0}
+form.editor .publishing .radio label{float:none;width:14em}
+form.editor .publishing .radio label span{float:left;width:14em}
+form.editor fieldset.metadata label{float:none !important;display:block;font-weight:700}
+.save{text-align:right;padding:10px 0}
+.save button{background:url(../../addition/img/RichChampion/readon.png) no-repeat top;border:none;width:122px;height:20px}
+#editor-xtd-buttons{padding:5px}
+.button2-left a,.button2-right a,.button2-left span,.button2-right span{display:block;height:22px;float:left;line-height:22px;font-size:11px;color:#666;cursor:pointer}
+.button2-left span,.button2-right span{cursor:default;color:#999}
+.button2-left .page a,.button2-right .page a,.button2-left .page span,.button2-right .page span{padding:0 6px}
+.page span{color:#000;font-weight:700}
+.button2-left a:hover,.button2-right a:hover{text-decoration:none;color:#0B55C4}
+.button2-left a,.button2-left span{padding:0 24px 0 6px}
+.button2-right a,.button2-right span{padding:0 6px 0 24px}
+body.contentpane{background-color:#fff}
+form#login label{display:block;font-weight:700;padding:10px 0 3px}
+form#login fieldset{border:10px solid #333;color:#fff;padding:20px}
+.tool-tip{float:left;background-color:#202020;border-top:1px solid #444;border-left:1px solid #444;border-right:1px solid #555;border-bottom:1px solid #555;z-index:13000;max-width:300px;padding:7px 9px}
+.tool-title,.white-title,.gray-title,.blue-title,.green-title,.red-title{font-weight:700;font-size:14px}
+.tool-title{color:#ccc;font-size:12px}
+.tool-text{color:#999;font-size:11px;font-weight:400;margin:0}
+#tip-fade.tool-tip{float:left;background-color:red !important;border-top:1px solid #444;border-left:1px solid #444;border-right:1px solid #555;border-bottom:1px solid #555;z-index:13000;max-width:300px;padding:7px 9px}
+.white-tip{border:1px solid #ccc;background:#fff;color:#000;margin:0;padding:15px}
+.white-title{color:#000}
+.gray-tip{border:1px solid #ccc;background:#efefef;color:#000;margin:0;padding:15px}
+.blue-tip{border:1px solid #154f82;background:#a0cbef;color:#000;margin:0;padding:15px}
+.green-tip{border:1px solid #5bcb47;background:#8bf279;color:#000;margin:0;padding:15px}
+.red-tip{border:1px solid red;background:#ffaea8;color:#000;margin:0;padding:15px}
+.tool-tip,.white-tip,.gray-tip,.blue-tip,.green-tip,.red-tip{font-size:12px;-moz-border-radius:8px;-webkit-border-radius:8px;text-shadow:0 1px 0 #fff, 0 0 2px #666}
+a.imglogo:hover,a.logo:hover{text-decoration:none}
+#navigation a:hover,a.pagenav:hover{color:#CC576D;text-decoration:none;background:url(../../addition/img/RichChampion/nav.jpg) no-repeat bottom}
+#date,ul#mainlevel-nav li a#active_menu-nav:hover{color:#666}
+label.invalid,.contact label.invalid{color:red}
+.sectiontableentry1 td,.sectiontableentry2 td,.sectiontableentry0 td{line-height:25px;border-bottom:1px dotted #222;margin:1px;padding:2px 5px}
+table.pollstableborder tr.sectiontableentry1 td,table.pollstableborder tr.sectiontableentry2 td,table.pollstableborder tr.sectiontableentry0 td{margin:1px;padding:2px 5px}
+table.searchinto,table.contact-category{width:100%}
+.pagination span,.pagination a{padding:2px}
+.poll .td_3,.poll td.line{width:300px}
+.contentpaneopen_edit,.button2-left,.button2-right,.button2-left div,.button2-right div{float:left}
+.button2-left,.button2-right{float:left;margin-left:5px}
+#page_content,table.moduletable{width:100%;margin:0;padding:0}
+#leftcol .module div div div div,#leftcol .module_menu div div div div,#leftcol .module_text div div div div,#rightcol .module div div div div,#rightcol .module_menu div div div div,#rightcol .module_text div div div div,#form-login .input p{margin:0;padding:0}
+select {background:url(../../addition/img/RichChampion/bgall.gif) repeat-x bottom;border: 1px solid #AEABC6;margin: 2px}
+#mod_loginform td a {width:150px;display:block;background:url(../../addition/img/RichChampion/ar.gif) no-repeat right}
+#mod_loginform td a:hover{display:block;color:#CC576D;text-decoration:none;background:url(../../addition/img/RichChampion/ar_h.gif) no-repeat right}
+.eintrag li{color: #202020;}
+.module_menu small{color: #202020;}
+li:hover{list-style: disc;color: #5A50A6;}
+/*blockquote{background-color: #f9f9f9;border: 1px solid #AD9AB8;font-size: 15px;}*/

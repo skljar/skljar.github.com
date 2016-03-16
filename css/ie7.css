@@ -1,0 +1,8 @@
+﻿.contentheading{margin:10px 0}
+.createdate, .createdby, .modifydate{font-size:10px}
+#box{position:relative}
+#content_outmiddle, #content_outleft, #content_outright{overflow:hidden}
+#navigation td{line-height:30px}
+#navigation a{line-height:30px}
+#form-login ul, #form-login ul li{list-style:none;padding-top:5px}
+select{margin-right:18px}#toppanel{width:96.02%}

@@ -1,0 +1,36 @@
+﻿body{font-size:13px}
+body{text-align:center}
+select{margin-right:18px}
+#wrapper, #foot_container{text-align:left;width:1100px}
+#form-login-username input, #form-login-password input{width:120px;height:20px}
+#header{height:auto;width:100%;margin:0}
+#logo{height:auto;width:400px}
+#banner_outer{float:right;width:480px}
+#banner{width:auto}
+#subhead{height:40px;margin:10px 0 10px 0;padding:0}
+#breadcrumb{height:40px;line-height:40px;float:left;width:550px;margin:0 30px;padding:0;border:0}
+#breadcrumb a{height:40px;line-height:40px}
+#search{height:33px;overflow:hidden}
+#content_outmiddle{width:99%;display:inline-block}
+#content_outleft{width:98%;display:inline-block}
+#content_outright{width:99.8%;display:inline-block}
+#maincontent{width:auto}
+#copyout{margin:0}
+#copy{width:100%}
+.blog_more ul li{background-image:none}
+ul.menu_lv_dropdown li{display:inline;position:inherit;width:100px}
+ul.menu_lv_dropdown li a{padding:0 5px 0 5px}
+#container{margin:0;padding:10px 0}
+.module_menu div{width:230px}
+#wrapper #leftcol h3.module{margin:0;padding:0 30px;height:35px;width:230px;line-height:35px}
+#wrapper #rightcol h3.module{margin:0;padding:0 30px 0 0;height:35px;width:230px;line-height:35px}
+#leftcol{width:230px;padding:0 5px}
+#rightcol{width:230px;padding:0 5px 0 0}
+#leftcol .module, #leftcol .module_menu, #leftcol .module_text{padding-bottom:10px}
+span.pagenav, a.pagenav, table.pagenav a{height:27px}
+#banner{height:auto;margin:5px 5px 5px 0}
+.module_menu ul.menu li a, .module_menu ul.menu li span.separator{height:25px}
+div.contenthead, div.contenthead-dark, div.contenthead-blue, div.contenthead-red, div.contenthead-green{float:left;width:100%}
+.createdate, .createdby, .modifydate{font-size:10px}
+#navigation a{height:30px}
+.modifydate, .createdby, .createdate{height:18px}
